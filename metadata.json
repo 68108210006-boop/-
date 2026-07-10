@@ -1,0 +1,6 @@
+{
+  "name": "ThreeJS 2D-3D RPG Game",
+  "description": "A 2.5D RPG action game featuring a 2D billboard sprite character moving in 8 directions inside a 3D environment built with Three.js, with custom attacks, skills, potions, and enemies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
